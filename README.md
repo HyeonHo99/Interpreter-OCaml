@@ -5,3 +5,8 @@ Make an Interpreter using OCaml
 - F1: Support first-order functions
 - V: Support Variables
 - AE: Support Arithmetic Expressions (and Calculations)
+
+## How to Run
+'''
+$ dune runtest
+'''
