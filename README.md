@@ -1,5 +1,5 @@
 # F1VAE Interpreter
-Make an Interpreter using OCaml
+Build Interpreter using OCaml (Functional Language)
 
 ## Prerequisites
 - Opam >= 2.0 : Ocaml package manager
