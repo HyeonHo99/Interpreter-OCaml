@@ -1,6 +1,11 @@
 # F1VAE Interpreter
 Make an Interpreter using OCaml
 
+## Prerequisites
+- Opam >= 2.0 : Ocaml package manager
+- OCaml >= 4.12.0 : Ocaml interpreter & compiler
+- Dune >= 2.0 : Ocaml build system
+
 ## Features of the Interpreter : F1VAE
 - F1: Support first-order functions
 - V: Support Variables
